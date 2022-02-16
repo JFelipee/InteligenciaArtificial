@@ -14,4 +14,6 @@ Si estas leyendo esto, es por que yo confío en ti o, en su defecto, alguien en 
 
 Pues eso, úsalo a conciencia, entiende lo que está escrito, y úsalo para desarrollar tu propio código. Si ves que no entiendes algo, en mi perfil de GitHub está mi correo, siéntete libre de usarlo.
 
-Se que la dificultad de las prácticas y proyectos es alta, así que ánimo y dedícale tiempo que vale la pena :3. Un saludo.
+Se que la dificultad de las prácticas y proyectos es alta, así que ánimo y dedícale tiempo que vale la pena :3. 
+
+Un saludo.
