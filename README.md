@@ -3,6 +3,10 @@ Pues cosas de IA.
 
 # Datos
 Contiene transparencias de clase y el proyecto de búsqueda heurística. 
+- El proyecto contiene las distancias de lugares de Japón.
+- Búsqueda heurística usando el algortimo estrella.
+- GUI para implementar este algoritmo, para encontrar el camino más corto entre paradas de tren.
+
 Recomendado hacer el proyecto en python te ahorras trabajo.
 
 # Comentario de Conducta 
